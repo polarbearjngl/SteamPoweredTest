@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Data>
+	<Category ru="Игры" en="Games"/>
+	<Item ru="Экшен" en="Action"/>
+	<TabPanelItem ru="Скидки" en="Specials"/>
+	<AgeInput ru="Пожалуйста, введите дату вашего рождения:" en="Please enter your birth date to continue:"/>
+	<AgeConfirm ru="Содержимое этого товара может не подходить всем возрастам, а его просмотр на работе может быть недопустим."
+				en="Content in this product may not be appropriate for all ages, or may not be appropriate for viewing at work."/>
+	<DownloadBtn ru="Установить Steam" en="Install Steam Now"/>
+</Data>
